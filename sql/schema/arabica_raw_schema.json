@@ -1,0 +1,320 @@
+[
+  {
+    "name": "row_index",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"\""
+  },
+  {
+    "name": "quality_score",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"quality_score\""
+  },
+  {
+    "name": "view_certificate_1",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"view_certificate_1\""
+  },
+  {
+    "name": "view_certificate_2",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"view_certificate_2\""
+  },
+  {
+    "name": "cupping_protocol_and_descriptors",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Cupping Protocol and Descriptors\""
+  },
+  {
+    "name": "view_green_analysis_details",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"View Green Analysis Details\""
+  },
+  {
+    "name": "request_a_sample",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Request a Sample\""
+  },
+  {
+    "name": "species",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Species\""
+  },
+  {
+    "name": "owner",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Owner\""
+  },
+  {
+    "name": "country_of_origin",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Country of Origin\""
+  },
+  {
+    "name": "farm_name",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Farm Name\""
+  },
+  {
+    "name": "lot_number",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Lot Number\""
+  },
+  {
+    "name": "mill",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Mill\""
+  },
+  {
+    "name": "ico_number",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"ICO Number\""
+  },
+  {
+    "name": "company",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Company\""
+  },
+  {
+    "name": "altitude",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Altitude\""
+  },
+  {
+    "name": "region",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Region\""
+  },
+  {
+    "name": "producer",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Producer\""
+  },
+  {
+    "name": "number_of_bags",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Number of Bags\""
+  },
+  {
+    "name": "bag_weight",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Bag Weight\""
+  },
+  {
+    "name": "in_country_partner",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"In-Country Partner\""
+  },
+  {
+    "name": "harvest_year",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Harvest Year\""
+  },
+  {
+    "name": "grading_date",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Grading Date\""
+  },
+  {
+    "name": "owner_1",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Owner.1\""
+  },
+  {
+    "name": "variety",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Variety\""
+  },
+  {
+    "name": "status",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Status\""
+  },
+  {
+    "name": "processing_method",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Processing Method\""
+  },
+  {
+    "name": "na_0",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"NA\""
+  },
+  {
+    "name": "aroma",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Aroma\""
+  },
+  {
+    "name": "flavor",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Flavor\""
+  },
+  {
+    "name": "aftertaste",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Aftertaste\""
+  },
+  {
+    "name": "acidity",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Acidity\""
+  },
+  {
+    "name": "body",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Body\""
+  },
+  {
+    "name": "balance",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Balance\""
+  },
+  {
+    "name": "na_1",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"NA.1\""
+  },
+  {
+    "name": "uniformity",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Uniformity\""
+  },
+  {
+    "name": "clean_cup",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Clean Cup\""
+  },
+  {
+    "name": "sweetness",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Sweetness\""
+  },
+  {
+    "name": "cupper_points",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Cupper Points\""
+  },
+  {
+    "name": "total_cup_points",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Total Cup Points\""
+  },
+  {
+    "name": "na_2",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"NA.2\""
+  },
+  {
+    "name": "moisture",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Moisture\""
+  },
+  {
+    "name": "category_one_defects",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Category One Defects\""
+  },
+  {
+    "name": "quakers",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Quakers\""
+  },
+  {
+    "name": "color",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Color\""
+  },
+  {
+    "name": "category_two_defects",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Category Two Defects\""
+  },
+  {
+    "name": "na_3",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"NA.3\""
+  },
+  {
+    "name": "expiration",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Expiration\""
+  },
+  {
+    "name": "certification_body",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Certification Body\""
+  },
+  {
+    "name": "certification_address",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Certification Address\""
+  },
+  {
+    "name": "certification_contact",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Certification Contact\""
+  },
+  {
+    "name": "unnamed_51",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"\""
+  },
+  {
+    "name": "notes",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Original header: \"Notes\""
+  }
+]
