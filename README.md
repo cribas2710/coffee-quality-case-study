@@ -2,7 +2,7 @@
 
 > Google Data Analytics Capstone · *The client (Cooperativa Cafetalera Hondureña) is fictional; the data is real and public.*
 
-**[Interactive dashboard](https://public.tableau.com/views/Whatmakesgreatcoffee-Honduras/HondurasQualityDashboard)** · **[Board presentation (PDF)](presentation/What%20Makes%20Great%20Coffee%20Board%20Presentation.pdf)** · **[Analysis notebook](notebooks/coffee_quality_analysis.ipynb)** · **Kaggle notebook:** _TBD_
+**[Interactive dashboard](https://public.tableau.com/views/Whatmakesgreatcoffee-Honduras/HondurasQualityDashboard)** · **[Board presentation (PDF)](presentation/What%20Makes%20Great%20Coffee%20Board%20Presentation.pdf)** · **[Analysis notebook](notebooks/coffee_quality_analysis.ipynb)** · **[Kaggle dataset](https://www.kaggle.com/datasets/marzellcribas/cqi-arabica-coffee-cleaned-stage)** · **Kaggle notebook:** _TBD_
 
 **Tools:** SQL (BigQuery) · Python (pandas, SciPy, matplotlib) · Tableau Public
 
@@ -84,6 +84,7 @@ The SQL scripts run in BigQuery on the raw file in `data/raw/` (schema in `sql/s
 
 ## Data Source and Credits
 
+- **Cleaned dataset on Kaggle:** [CQI Arabica Coffee – Cleaned Stage](https://www.kaggle.com/datasets/marzellcribas/cqi-arabica-coffee-cleaned-stage)
 - **Data:** Coffee Quality Institute (CQI) reviews, scraped in 2018 by James LeDoux: [jldbc/coffee-quality-database](https://github.com/jldbc/coffee-quality-database) (MIT License).
 - **Course:** [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) capstone.
 - Independent educational project, not affiliated with or endorsed by CQI.
